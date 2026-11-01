@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="hu">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f7f5ef" />
+    <meta
+      name="description"
+      content="Hetven év, hetven történet. Szeretettel válogatott filmek Vikor Györgyi 70. születésnapjára."
+    />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta property="og:title" content="70 év, 70 történet · Anyukánknak" />
+    <meta
+      property="og:description"
+      content="Egy személyes mozi, tele régi kedvencekkel és új felfedezésekkel. Boldog születésnapot!"
+    />
+    <title>70 év, 70 történet · Anyukánknak</title>
+    <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="preload" as="image" href="/posters/hero.jpg" />
+    <script type="module" src="/js/main.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#collection">Ugrás a filmekhez</a>
+    <header class="site-header">
+      <a class="brand" href="#" aria-label="70 történet – kezdőlap"
+        ><span class="brand-icon" data-icon="film"></span
+        ><span>70 történet<span class="brand-dot">.</span></span></a
+      >
+      <nav class="main-nav" aria-label="Főmenü">
+        <button class="nav-link active" data-shelf="all">A filmválogatás</button>
+        <button class="nav-link" data-shelf="favorites">
+          <span data-icon="heart"></span>Kedvenceim
+          <span class="nav-count" id="favorite-count">0</span>
+        </button>
+        <button class="nav-link" id="journal-open"><span data-icon="film"></span>Filmnaplóm</button>
+      </nav>
+      <span class="header-dedication">Anyukánknak, szeretettel <span>♡</span></span>
+    </header>
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="tiny-star">✳</span> EGY KÜLÖNLEGES SZÜLETÉSNAPRA</p>
+          <h1 id="hero-title">
+            70 év.<br />70 <em>történet.</em><span class="title-star">✳</span>
+          </h1>
+          <p class="hero-intro">Kedves Anyuci!</p>
+          <p class="hero-description">
+            Vannak történetek, amelyek velünk maradnak.<br class="desktop-break" />
+            És vannak, amelyek még ránk várnak. Ez a kis mozi<br class="desktop-break" />
+            most mind a tiéd – régi kedvencekkel, új élményekkel.
+          </p>
+          <a class="button primary hero-button" id="start-viewing" href="#collection"
+            >Kezdődjön a vetítés <span data-icon="arrow"></span
+          ></a>
+          <p class="birthday-date">
+            <span class="birthday-line"></span>1956. november 4. <span>–</span> 2026. november 4.
+          </p>
+        </div>
+        <div class="hero-visual">
+          <div class="hero-image-wrap">
+            <img
+              class="hero-image"
+              src="/posters/hero.jpg"
+              alt="Törőcsik Mari és Soós Imre a Körhinta című, 1956-os magyar filmben"
+              width="1000"
+              height="670"
+              fetchpriority="high"
+            />
+            <div class="hero-image-shade"></div>
+            <span class="hero-film-label"><span>KÖRHINTA</span>1956 · Fábri Zoltán</span>
+          </div>
+          <div class="birthday-seal">
+            <span>CSAK NEKED</span><strong>70</strong><span>SZERETETTEL</span>
+          </div>
+          <p class="image-caption">
+            <span data-icon="spark"></span> Egy klasszikus abból az évből, amikor minden
+            elkezdődött.
+          </p>
+        </div>
+      </section>
+      <section class="progress-section" aria-label="Filmnapló összegzése">
+        <div class="progress-icon" data-icon="film"></div>
+        <div class="progress-copy">
+          <h2>Minden film egy új élmény.</h2>
+          <p>Jelöld, amit már láttál, és gyűjtsd a kedvenceidet!</p>
+        </div>
+        <div class="progress-details">
+          <div class="progress-label">
+            <span><strong id="watched-count">0</strong> / 70 film megnézve</span
+            ><span id="progress-percent">0%</span>
+          </div>
+          <progress id="watch-progress" max="70" value="0" aria-label="Megnézett filmek">
+            0 / 70
+          </progress>
+        </div>
+        <span class="progress-encouragement" id="progress-message"
+          >Egy szép történet kezdete ♡</span
+        >
+      </section>
+      <section class="collection" id="collection" aria-labelledby="collection-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">A SAJÁT KIS MOZID</p>
+            <h2 id="collection-title">Melyik történethez van kedved?</h2>
+          </div>
+          <button class="text-button shuffle-button" id="surprise">
+            <span data-icon="shuffle"></span>Válassz nekem
+          </button>
+        </div>
+        <div class="collection-tabs" role="group" aria-label="Filmgyűjtemény">
+          <button class="collection-tab active" data-shelf="all">A 70 film <span>70</span></button>
+          <button class="collection-tab" data-shelf="watched">
+            Már láttam <span id="watched-tab-count">0</span></button
+          ><button class="collection-tab" data-shelf="favorites">
+            Kedvenceim <span id="favorite-tab-count">0</span>
+          </button>
+        </div>
+        <div class="filter-top">
+          <label class="search-field"
+            ><span data-icon="search"></span
+            ><input
+              id="search"
+              type="search"
+              placeholder="Keress egy filmet, egy emléket…"
+              aria-label="Keresés cím, év vagy leírás alapján"
+          /></label>
+        </div>
+        <div class="category-list" id="categories" role="group" aria-label="Filmkategória"></div>
+        <div class="results-toolbar">
+          <p id="result-count" aria-live="polite">A filmek betöltése…</p>
+          <label class="sort-field"
+            >Rendezés:
+            <select id="sort" aria-label="Filmek rendezése">
+              <option value="selection">Válogatás szerint</option>
+              <option value="title">Cím szerint</option>
+              <option value="year-asc">Legrégebbi elöl</option>
+              <option value="year-desc">Legújabb elöl</option>
+            </select></label
+          >
+        </div>
+        <div class="availability-note">
+          <span data-icon="info"></span>
+          <p>
+            Minden film elindítható a film adatlapjáról. A filmek videómegosztó oldalakon vannak,
+            ezért ha valamelyik nem indulna el, szólj nekünk!
+          </p>
+          <button id="about-links" aria-label="Bővebben a filmhivatkozásokról">
+            Bővebben <span data-icon="arrow"></span>
+          </button>
+        </div>
+        <div class="film-grid" id="film-grid" aria-label="Filmek"></div>
+        <div class="empty-state" id="empty-state" hidden>
+          <span data-icon="film"></span>
+          <h3>Itt még várnak rád a történetek.</h3>
+          <p id="empty-description">Próbálj másik keresést vagy kategóriát!</p>
+          <button class="button secondary" id="reset-filters">Mutasd az összes filmet</button>
+        </div>
+        <div class="loading-error" id="loading-error" hidden role="alert">
+          <h3>A filmek most nem töltődtek be.</h3>
+          <p>Ellenőrizd az internetkapcsolatot, majd próbáld újra.</p>
+          <button class="button primary" id="retry">Újrapróbálom</button>
+        </div>
+      </section>
+      <section class="closing-note">
+        <span>♡</span>
+        <p>Hetven évnyi emlék mellé<br /><em>még sok-sok szép történetet.</em></p>
+        <small>Boldog 70. születésnapot, Anyuci!</small>
+      </section>
+    </main>
+    <footer>
+      <a class="brand footer-brand" href="#"
+        ><span data-icon="film"></span>70 történet<span class="brand-dot">.</span></a
+      >
+      <p>Készült szeretettel, csak neked. <span>2026</span></p>
+      <div>
+        <button class="footer-link" id="backup-open">Mentés és segítség</button
+        ><button class="footer-link" id="manage-open">
+          <span data-icon="settings"></span>Kezelés
+        </button>
+      </div>
+    </footer>
+    <dialog id="movie-dialog" class="movie-dialog" aria-label="Film részletei">
+      <button class="dialog-close" data-close="movie-dialog" aria-label="Bezárás">
+        <span data-icon="close"></span>
+      </button>
+      <div id="movie-content"></div>
+    </dialog>
+    <dialog id="journal-dialog" class="standard-dialog" aria-labelledby="journal-title">
+      <button class="dialog-close" data-close="journal-dialog" aria-label="Bezárás">
+        <span data-icon="close"></span>
+      </button>
+      <p class="eyebrow">A TE TÖRTÉNETEID</p>
+      <h2 id="journal-title">Filmnaplóm</h2>
+      <p id="journal-summary"></p>
+      <button class="button secondary" id="show-watched">
+        A megnézett filmek <span data-icon="arrow"></span>
+      </button>
+      <hr />
+      <h3>Őrizd meg az élményeidet.</h3>
+      <p>
+        A jelölések ebben a böngészőben automatikusan megmaradnak. Más eszközre nem
+        szinkronizálódnak. Egy mentésben a megnézett filmek és a kedvencek is benne vannak.
+      </p>
+      <div class="dialog-actions">
+        <button class="button primary" id="export-progress">
+          <span data-icon="download"></span>Biztonsági másolat</button
+        ><button class="button secondary" id="import-progress">
+          <span data-icon="upload"></span>Mentés betöltése
+        </button>
+      </div>
+      <input hidden id="progress-file" type="file" accept="application/json,.json" />
+      <p class="fine-print">
+        A korábbi bemutatóoldal „70-film-megnezett.json” mentését is betöltheted.
+      </p>
+    </dialog>
+    <dialog id="info-dialog" class="standard-dialog" aria-labelledby="info-title">
+      <button class="dialog-close" data-close="info-dialog" aria-label="Bezárás">
+        <span data-icon="close"></span>
+      </button>
+      <p class="eyebrow">JÓ TUDNI</p>
+      <h2 id="info-title">Egy kattintással a filmhez.</h2>
+      <p>
+        Minden film egy videómegosztó oldalra (Videa, OK.ru, Indavideo, YouTube vagy Twitch)
+        feltöltött példányra mutat. Ezeket nem a filmek forgalmazói töltötték fel, ezért
+        előfordulhat, hogy valamelyik idővel eltűnik.
+      </p>
+      <p>
+        Ha egy filmnél eltér a nyelv vagy a változat – például felirattal vagy más nyelven érhető el
+        –, azt a film adatlapján jelezzük.
+      </p>
+      <p class="fine-print">
+        Nyitókép: Körhinta (1956), fotó: Schandl Teréz /
+        <a
+          href="https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/korhinta.html"
+          target="_blank"
+          rel="noopener noreferrer"
+          >NFI Filmarchívum</a
+        >.
+      </p>
+      <p class="fine-print">
+        A megnézett jelölések és a kedvencek csak a böngésződben tárolódnak. Nincs követőkód vagy
+        hirdetés.
+      </p>
+    </dialog>
+    <dialog
+      id="manager-dialog"
+      class="standard-dialog manager-dialog"
+      aria-labelledby="manager-title"
+    >
+      <button class="dialog-close" data-close="manager-dialog" aria-label="Bezárás">
+        <span data-icon="close"></span>
+      </button>
+      <p class="eyebrow">A VÁLOGATÁS GONDOZÓJÁNAK</p>
+      <h2 id="manager-title">Filmhivatkozások kezelése</h2>
+      <p>
+        Az itt mentett módosítások helyi előnézetet adnak. A közzétett oldal frissítéséhez exportáld
+        a linklistát, cseréld le a forrásban a <code>public/data/links.json</code> fájlt, majd
+        telepítsd újra az oldalt.
+      </p>
+      <form id="link-form">
+        <label>Film<select id="manage-film" required></select></label>
+        <label>Hivatkozás<select id="manage-source"></select></label
+        ><label
+          >Közvetlen filmoldal<input id="manage-url" type="url" placeholder="https://…" required
+        /></label>
+        <div class="form-row">
+          <label>Szolgáltató<input id="manage-provider" placeholder="pl. Videa" required /></label
+          ><label
+            >Nyelv<select id="manage-language">
+              <option>Magyar hang</option>
+              <option>Magyar felirat</option>
+              <option>Lengyel hang</option>
+            </select></label
+          >
+        </div>
+        <label
+          >Hozzáférés<select id="manage-access">
+            <option value="free">Ingyenes filmoldal</option>
+            <option value="free-registration">Ingyenes, regisztrációval</option>
+            <option value="unverified">Még nem ellenőrzött</option>
+          </select></label
+        ><label
+          >Megjegyzés<textarea
+            id="manage-note"
+            rows="2"
+            placeholder="Pl. Teljes film, 95 perc."
+          ></textarea></label
+        ><label class="check-label"
+          ><input id="manage-reviewed" type="checkbox" required />Ellenőriztem a forrást, a magyar
+          nyelvet és a hozzáférés feltételeit.</label
+        ><button class="button primary" type="submit">Helyi előnézet mentése</button>
+        <button class="text-button" id="remove-link" type="button" hidden>
+          Filmoldal eltávolítása a helyi előnézetből
+        </button>
+      </form>
+      <p id="manager-status" role="status"></p>
+      <div class="dialog-actions">
+        <button class="button secondary" id="export-links">Linklista exportálása</button
+        ><button class="text-button" id="restore-links">Közzétett linklista visszaállítása</button>
+      </div>
+      <p>
+        <a class="text-button" href="/data/availability.csv" download="film-elerhetosegek.csv"
+          >Elérhetőségi lista letöltése (CSV)</a
+        >
+      </p>
+      <p class="fine-print">
+        A helyi előnézet nem módosítja a más eszközön látható oldalt. A kezelőfelület nem nyilvános
+        szerkesztési végpont.
+      </p>
+    </dialog>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <noscript
+      ><p class="noscript">
+        A filmválogatáshoz engedélyezd a JavaScriptet a böngészőben.
+      </p></noscript
+    >
+  </body>
+</html>

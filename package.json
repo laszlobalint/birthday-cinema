@@ -1,0 +1,15 @@
+{
+  "name": "gyorgyi-birthday-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@10.28.2",
+  "scripts": {
+    "build": "pnpm --filter @gyorgyi/cinema build && mkdir -p dist && cp -R apps/web/dist/. dist/",
+    "test": "pnpm --filter @gyorgyi/cinema test",
+    "typecheck": "pnpm --filter @gyorgyi/cinema typecheck",
+    "dev": "pnpm --filter @gyorgyi/cinema dev"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  }
+}

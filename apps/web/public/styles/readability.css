@@ -1,0 +1,258 @@
+/* Comfortable text and touch targets keep the collection easy to use on a tablet. */
+.nav-link {
+  font-size: 14px;
+  min-height: 44px;
+}
+.hero-description {
+  font-size: 15px;
+}
+.hero-intro {
+  font-size: 22px;
+}
+.header-dedication {
+  font-size: 13px;
+}
+.hero-button {
+  font-size: 14px;
+}
+.birthday-date {
+  font-size: 11px;
+}
+.image-caption {
+  font-size: 11px;
+}
+.progress-copy p {
+  font-size: 13px;
+}
+.progress-label {
+  font-size: 12px;
+}
+.progress-encouragement {
+  font-size: 13px;
+}
+.collection-tab {
+  font-size: 14px;
+  min-height: 44px;
+}
+.category-chip {
+  font-size: 12px;
+  min-height: 40px;
+}
+.search-field input {
+  font-size: 14px;
+}
+.results-toolbar,
+.sort-field select {
+  font-size: 12px;
+}
+.availability-note {
+  font-size: 11px;
+}
+.availability-note > button {
+  font-size: 11px;
+  min-height: 36px;
+}
+.film-meta {
+  font-size: 11px;
+}
+.film-description {
+  font-size: 13px;
+  line-height: 1.8;
+}
+.film-title {
+  font-size: 22px;
+}
+.source-badge {
+  font-size: 11px;
+}
+.details-button {
+  font-size: 12px;
+  min-height: 40px;
+}
+.watched-button {
+  font-size: 11px;
+  min-height: 40px;
+}
+.favorite-button {
+  min-width: 36px;
+  min-height: 36px;
+}
+.footer-link {
+  font-size: 12px;
+  min-height: 40px;
+}
+.watch-source a {
+  font-size: 14px;
+  min-height: 34px;
+}
+.watch-source small {
+  font-size: 12px;
+}
+.no-source p {
+  font-size: 13px;
+}
+.no-source h3 {
+  font-size: 15px;
+}
+.standard-dialog p {
+  font-size: 14px;
+}
+.movie-info .dialog-actions .button {
+  font-size: 13px;
+}
+.standard-dialog .fine-print {
+  font-size: 12px;
+}
+.image-credit {
+  font-size: 11px;
+  gap: 5px;
+  align-items: center;
+}
+.image-credit svg {
+  height: 12px;
+  width: 12px;
+}
+#link-form label {
+  font-size: 13px;
+}
+#link-form input:not([type='checkbox']),
+#link-form select,
+#link-form textarea {
+  font-size: 14px;
+}
+@media (max-width: 1100px) {
+  .film-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (max-width: 800px) {
+  .nav-link {
+    font-size: 12px;
+  }
+  .hero-description {
+    font-size: 14px;
+  }
+  .film-title {
+    font-size: 21px;
+  }
+  .progress-section {
+    flex-wrap: wrap;
+  }
+  .progress-details {
+    width: 100%;
+    margin: 2px 0 0;
+  }
+  .progress-copy p {
+    font-size: 12px;
+  }
+  .category-chip {
+    font-size: 11px;
+  }
+  .section-heading h2 {
+    font-size: 27px;
+  }
+}
+@media (max-width: 600px) {
+  .nav-link {
+    font-size: 11px;
+  }
+  .hero-description {
+    font-size: 14px;
+  }
+  .hero-button {
+    font-size: 14px;
+  }
+  .birthday-date {
+    font-size: 10px;
+  }
+  .image-caption {
+    font-size: 10px;
+  }
+  .collection-tab {
+    font-size: 12px;
+  }
+  .category-chip {
+    font-size: 12px;
+    min-height: 40px;
+  }
+  .search-field input {
+    font-size: 14px;
+  }
+  .results-toolbar,
+  .sort-field select {
+    font-size: 11px;
+  }
+  .film-meta {
+    font-size: 10px;
+  }
+  .film-title {
+    font-size: 21px;
+  }
+  .film-description {
+    font-size: 12px;
+  }
+  .source-badge {
+    font-size: 10px;
+  }
+  .details-button {
+    font-size: 11px;
+    min-height: 40px;
+  }
+  .watched-button {
+    font-size: 12px;
+    min-height: 40px;
+  }
+  .availability-note {
+    font-size: 10px;
+  }
+  .progress-label {
+    font-size: 12px;
+  }
+  .hero-image-wrap {
+    height: 280px;
+  }
+  .footer-link {
+    font-size: 11px;
+  }
+}
+@media (max-width: 600px) {
+  .title-star {
+    display: none;
+  }
+  .hero h1 {
+    font-size: clamp(56px, 19.6vw, 77px);
+  }
+}
+@media (max-width: 360px) {
+  .site-header {
+    flex-direction: column;
+    gap: 0;
+    padding-top: 12px;
+    padding-bottom: 8px;
+    min-height: 106px;
+  }
+  .main-nav {
+    gap: 28px;
+  }
+  .nav-link {
+    font-size: 12px;
+  }
+  .film-grid {
+    gap: 15px 10px;
+  }
+  .film-body {
+    padding: 10px;
+  }
+  .film-title {
+    font-size: 19px;
+  }
+  .film-description {
+    font-size: 12px;
+  }
+  .source-badge {
+    font-size: 9px;
+  }
+  .section-heading h2 {
+    font-size: 24px;
+  }
+}

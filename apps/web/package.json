@@ -1,0 +1,19 @@
+{
+  "name": "@gyorgyi/cinema",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc && cp -R public/. dist/",
+    "typecheck": "tsc --noEmit && tsc --project tsconfig.test.json",
+    "test": "node --test test/domain.test.ts",
+    "dev": "pnpm run build && node scripts/serve.ts",
+    "refresh-review": "node scripts/refresh-review.ts",
+    "test:browser": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^24.19.2",
+    "typescript": "~5.9.3"
+  }
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "url": "https://videa.hu/videok/film-animacio/1k-o-r-h-i-tvrip-vhsrip-MN4f6YdT3Lvfk9uh",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 93 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/1k-o-r-h-i-tvrip-vhsrip-MN4f6YdT3Lvfk9uh",
+    "availability": "free"
+  },
+  {
+    "id": 2,
+    "url": "https://ok.ru/video/3688346814986",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 85 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/3688346814986",
+    "availability": "free"
+  },
+  {
+    "id": 3,
+    "url": "https://ok.ru/video/12699463781056",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 108 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/12699463781056",
+    "availability": "free"
+  },
+  {
+    "id": 4,
+    "url": "https://ok.ru/video/14684097612535",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 86 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/14684097612535",
+    "availability": "free"
+  },
+  {
+    "id": 5,
+    "url": "https://videa.hu/videok/film-animacio/a-tanu-6TITC8phQUTYLxsP",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 107 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-tanu-6TITC8phQUTYLxsP",
+    "availability": "free"
+  },
+  {
+    "id": 6,
+    "url": "https://ok.ru/video/6890743859945",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 131 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/6890743859945",
+    "availability": "free"
+  },
+  {
+    "id": 7,
+    "url": "https://videa.hu/videok/film-animacio/1-r-e-g-i-dvdrip-vhsrip-O7aOIpumsOAaWECN",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 80 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/1-r-e-g-i-dvdrip-vhsrip-O7aOIpumsOAaWECN",
+    "availability": "free"
+  },
+  {
+    "id": 8,
+    "url": "https://videa.hu/videok/film-animacio/1-m-e-p-h-tvrip-vhsrip-kaOWEE30bh9fomiA",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 145 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/1-m-e-p-h-tvrip-vhsrip-kaOWEE30bh9fomiA",
+    "availability": "free"
+  },
+  {
+    "id": 9,
+    "url": "https://ok.ru/video/2348961892948",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 110 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/2348961892948",
+    "availability": "free"
+  },
+  {
+    "id": 10,
+    "url": "https://videa.hu/videok/film-animacio/szegenylegenyek-1849-51-9HRoNkVVEXzVuwdk",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 87 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/szegenylegenyek-1849-51-9HRoNkVVEXzVuwdk",
+    "availability": "free"
+  },
+  {
+    "id": 11,
+    "url": "https://videa.hu/videok/film-animacio/a-p-e-g-y-tvrip-vhsrip-59KDZI39rmj0DDYr",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 87 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-p-e-g-y-tvrip-vhsrip-59KDZI39rmj0DDYr",
+    "availability": "free"
+  },
+  {
+    "id": 12,
+    "url": "https://ok.ru/video/4125711927892",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 95 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/4125711927892",
+    "availability": "free"
+  },
+  {
+    "id": 13,
+    "url": "https://videa.hu/videok/film-animacio/1m-e-g-a-l-dvdrip-tvrip.-vhsrip-sabvtRNTjtLyMU6S",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 98 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/1m-e-g-a-l-dvdrip-tvrip.-vhsrip-sabvtRNTjtLyMU6S",
+    "availability": "free"
+  },
+  {
+    "id": 14,
+    "url": "https://ok.ru/video/6720355568237",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 100 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/6720355568237",
+    "availability": "free"
+  },
+  {
+    "id": 15,
+    "url": "https://ok.ru/video/6453971782342",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 103 perc, magyar hanggal és francia felirattal. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/6453971782342",
+    "availability": "free"
+  },
+  {
+    "id": 16,
+    "url": "https://ok.ru/video/5619562515013",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 126 perc, magyar hanggal és angol felirattal. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/5619562515013",
+    "availability": "free"
+  },
+  {
+    "id": 17,
+    "url": "https://ok.ru/video/4450470201905",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 107 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/4450470201905",
+    "availability": "free"
+  },
+  {
+    "id": 18,
+    "url": "https://ok.ru/video/12692294011584",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 91 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/12692294011584",
+    "availability": "free"
+  },
+  {
+    "id": 19,
+    "url": "https://ok.ru/video/631776807576",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 119 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/631776807576",
+    "availability": "free"
+  },
+  {
+    "id": 20,
+    "url": "https://indavideo.hu/video/Fotografia_-_1972",
+    "provider": "Indavideo",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film.",
+    "evidenceUrl": "https://indavideo.hu/video/Fotografia_-_1972",
+    "availability": "free"
+  },
+  {
+    "id": 21,
+    "url": "https://videa.hu/videok/film-animacio/indul.a.bakterhaz.1980.teljes-magyarul-film-animacio-MWAgY8wHfvEe9CGm",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 66 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/indul.a.bakterhaz.1980.teljes-magyarul-film-animacio-MWAgY8wHfvEe9CGm",
+    "availability": "free"
+  },
+  {
+    "id": 22,
+    "url": "https://ok.ru/video/801920846437",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 102 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/801920846437",
+    "availability": "free"
+  },
+  {
+    "id": 23,
+    "url": "https://videa.hu/videok/film-animacio/pal-utcai-fiuk-film-animacio-vUWTGG2HIEOz2Y8H",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 103 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/pal-utcai-fiuk-film-animacio-vUWTGG2HIEOz2Y8H",
+    "availability": "free"
+  },
+  {
+    "id": 24,
+    "url": "https://ok.ru/video/9755958381153",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 86 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/9755958381153",
+    "availability": "free"
+  },
+  {
+    "id": 25,
+    "url": "https://ok.ru/video/288333302424",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Mind a négy rész egy videóban, 279 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/288333302424",
+    "availability": "free"
+  },
+  {
+    "id": 26,
+    "url": "https://videa.hu/videok/film-animacio/tarr-bela-satantango-1994-film-animacio-haZDFxMVKH8HgIkU",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 421 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/tarr-bela-satantango-1994-film-animacio-haZDFxMVKH8HgIkU",
+    "availability": "free"
+  },
+  {
+    "id": 27,
+    "url": "https://videa.hu/videok/film-animacio/121-c-s-i-n-tvrip-vhsrip-1BaQ2MCT92HBE0kh",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 99 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/121-c-s-i-n-tvrip-vhsrip-1BaQ2MCT92HBE0kh",
+    "availability": "free"
+  },
+  {
+    "id": 28,
+    "url": "https://videa.hu/videok/film-animacio/kontroll-2003-hd-film-rtyfcXqc0eu4Jx77",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 106 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/kontroll-2003-hd-film-rtyfcXqc0eu4Jx77",
+    "availability": "free"
+  },
+  {
+    "id": 29,
+    "url": "https://videa.hu/videok/film-animacio/saul.mp4-film-animacio-Ib4KjWCfLYGhLRZb",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 111 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/saul.mp4-film-animacio-Ib4KjWCfLYGhLRZb",
+    "availability": "free"
+  },
+  {
+    "id": 30,
+    "url": "https://ok.ru/video/2951492274899",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 116 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/2951492274899",
+    "availability": "free"
+  },
+  {
+    "id": 31,
+    "url": "https://ok.ru/video/2491380337363",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 95 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/2491380337363",
+    "availability": "free"
+  },
+  {
+    "id": 32,
+    "url": "https://videa.hu/videok/film-animacio/biciklitolvajok-1948-eok4m4vPe8mnEaL5",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 89 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/biciklitolvajok-1948-eok4m4vPe8mnEaL5",
+    "availability": "free"
+  },
+  {
+    "id": 33,
+    "url": "https://videa.hu/videok/film-animacio/az-edes-elet-1960-drama-francia-F3vFLIWwomkLHA1o",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 167 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/az-edes-elet-1960-drama-francia-F3vFLIWwomkLHA1o",
+    "availability": "free"
+  },
+  {
+    "id": 34,
+    "url": "https://videa.hu/videok/film-animacio/nyolc-es-fel-film-animacio-XhWPCxvoYUSKMOiL",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 132 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/nyolc-es-fel-film-animacio-XhWPCxvoYUSKMOiL",
+    "availability": "free"
+  },
+  {
+    "id": 35,
+    "url": "https://videa.hu/videok/film-animacio/orszaguton-1954-drama-Nd1X9DRHVXWUl1k4",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 97 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/orszaguton-1954-drama-Nd1X9DRHVXWUl1k4",
+    "availability": "free"
+  },
+  {
+    "id": 36,
+    "url": "https://videa.hu/videok/film-animacio/tegnap-ma-holnap-film-animacio-V0efL8C571RQLERe",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 114 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/tegnap-ma-holnap-film-animacio-V0efL8C571RQLERe",
+    "availability": "free"
+  },
+  {
+    "id": 37,
+    "url": "https://videa.hu/videok/film-animacio/hazassag-olasz-modra-teljes-film-animacio-171iy9r6FOGkRsar",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 97 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/hazassag-olasz-modra-teljes-film-animacio-171iy9r6FOGkRsar",
+    "availability": "free"
+  },
+  {
+    "id": 38,
+    "url": "https://videa.hu/videok/film-animacio/cinema-paradiso.-olasz-film.-film-teljes-AQFWyuGXSJmfERFV",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 168 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/cinema-paradiso.-olasz-film.-film-teljes-AQFWyuGXSJmfERFV",
+    "availability": "free"
+  },
+  {
+    "id": 39,
+    "url": "https://www.youtube.com/watch?v=Ofre6exL_-M",
+    "provider": "YouTube",
+    "language": "Magyar felirat",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 114 perc.",
+    "evidenceUrl": "https://www.youtube.com/watch?v=Ofre6exL_-M",
+    "availability": "free"
+  },
+  {
+    "id": 40,
+    "url": "https://videa.hu/videok/film-animacio/amelie-csodalatos-elete.mp4-film-animacio-qyWp4vusHlbQMOQa",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 122 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/amelie-csodalatos-elete.mp4-film-animacio-qyWp4vusHlbQMOQa",
+    "availability": "free"
+  },
+  {
+    "id": 41,
+    "url": "https://indavideo.hu/video/Negyszaz_csapas_1959",
+    "provider": "Indavideo",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film.",
+    "evidenceUrl": "https://indavideo.hu/video/Negyszaz_csapas_1959",
+    "availability": "free"
+  },
+  {
+    "id": 42,
+    "url": "https://indavideo.hu/video/Jules_es_Jim",
+    "provider": "Indavideo",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film.",
+    "evidenceUrl": "https://indavideo.hu/video/Jules_es_Jim",
+    "availability": "free"
+  },
+  {
+    "id": 43,
+    "url": "https://ok.ru/video/790687648349",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 118 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/790687648349",
+    "availability": "free"
+  },
+  {
+    "id": 44,
+    "url": "https://videa.hu/videok/film-animacio/a-nagy-zabalas.-1973.-125-perc.-francia-olasz-filmszatira-fM31gcuqngjFTGVm",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 130 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-nagy-zabalas.-1973.-125-perc.-francia-olasz-filmszatira-fM31gcuqngjFTGVm",
+    "availability": "free"
+  },
+  {
+    "id": 45,
+    "url": "https://videa.hu/videok/film-animacio/es-a-nyolcadik-napon...-film-animacio-82lfAWHntcrLc4l3",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 118 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/es-a-nyolcadik-napon...-film-animacio-82lfAWHntcrLc4l3",
+    "availability": "free"
+  },
+  {
+    "id": 46,
+    "url": "https://videa.hu/videok/film-animacio/a-masok-elete-das-leben-137-perc-2006-vcHqadUfr2tnV92c",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 138 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-masok-elete-das-leben-137-perc-2006-vcHqadUfr2tnV92c",
+    "availability": "free"
+  },
+  {
+    "id": 47,
+    "url": "https://videa.hu/videok/film-animacio/good-bye-lenin-2002-hd-film-animacio-s1443LM3G60uSZd2",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 116 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/good-bye-lenin-2002-hd-film-animacio-s1443LM3G60uSZd2",
+    "availability": "free"
+  },
+  {
+    "id": 48,
+    "url": "https://indavideo.hu/video/A_feher_szalag",
+    "provider": "Indavideo",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film.",
+    "evidenceUrl": "https://indavideo.hu/video/A_feher_szalag",
+    "availability": "free"
+  },
+  {
+    "id": 49,
+    "url": "https://videa.hu/videok/emberek-vlogok/ida-KQ1FNmWJkZJOL9Lw",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 82 perc.",
+    "evidenceUrl": "https://videa.hu/videok/emberek-vlogok/ida-KQ1FNmWJkZJOL9Lw",
+    "availability": "free"
+  },
+  {
+    "id": 50,
+    "url": "https://www.twitch.tv/videos/343173816",
+    "provider": "Twitch",
+    "language": "Lengyel hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 98 perc.",
+    "evidenceUrl": "https://www.twitch.tv/videos/343173816",
+    "availability": "free"
+  },
+  {
+    "id": 51,
+    "url": "https://ok.ru/video/9538307951130",
+    "provider": "OK.ru",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 93 perc. Az oldal felülete nem magyar nyelvű.",
+    "evidenceUrl": "https://ok.ru/video/9538307951130",
+    "availability": "free"
+  },
+  {
+    "id": 52,
+    "url": "https://indavideo.hu/video/A_zongoratanarno_2001",
+    "provider": "Indavideo",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film.",
+    "evidenceUrl": "https://indavideo.hu/video/A_zongoratanarno_2001",
+    "availability": "free"
+  },
+  {
+    "id": 53,
+    "url": "https://videa.hu/videok/film-animacio/a-negyzet-2017-amerikai-dan-francia-nemet-sve-KGm9z77KA4DFyuMm",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 151 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-negyzet-2017-amerikai-dan-francia-nemet-sve-KGm9z77KA4DFyuMm",
+    "availability": "free"
+  },
+  {
+    "id": 54,
+    "url": "https://videa.hu/videok/film-animacio/meg-egy-kort-mindenkinek-2020-dan-film-drama-Lb3CosHQ5Tj79YJT",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 117 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/meg-egy-kort-mindenkinek-2020-dan-film-drama-Lb3CosHQ5Tj79YJT",
+    "availability": "free"
+  },
+  {
+    "id": 55,
+    "url": "https://videa.hu/videok/film-animacio/toni-erdmann-2016-francia-monacoi-nemet-osztrak-xfoANF7S2pZwrRJF",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 163 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/toni-erdmann-2016-francia-monacoi-nemet-osztrak-xfoANF7S2pZwrRJF",
+    "availability": "free"
+  },
+  {
+    "id": 56,
+    "url": "https://videa.hu/videok/film-animacio/tizenket-duhos-ember-1997-film-animacio-aYnLjpbxzzzN4t8u",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Az 1997-es tévéfilm-változat (nem az 1957-es eredeti), 112 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/tizenket-duhos-ember-1997-film-animacio-aYnLjpbxzzzN4t8u",
+    "availability": "free"
+  },
+  {
+    "id": 57,
+    "url": "https://videa.hu/videok/film-animacio/hatso-ablak-1954-5hK5cIcx4Va3SlnZ",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 110 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/hatso-ablak-1954-5hK5cIcx4Va3SlnZ",
+    "availability": "free"
+  },
+  {
+    "id": 58,
+    "url": "https://videa.hu/videok/film-animacio/szedules-1958-JffAuj4QcMe2YJ6i",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 128 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/szedules-1958-JffAuj4QcMe2YJ6i",
+    "availability": "free"
+  },
+  {
+    "id": 59,
+    "url": "https://videa.hu/videok/film-animacio/van-aki-forron-szereti-1959-billy-wilder-fekete-feher-8FqktW7nntSKCCHJ",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 116 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/van-aki-forron-szereti-1959-billy-wilder-fekete-feher-8FqktW7nntSKCCHJ",
+    "availability": "free"
+  },
+  {
+    "id": 60,
+    "url": "https://videa.hu/videok/film-animacio/a-keresztapa.1972.-175-perc-amerikai-gengszterfilm-Mi343HjlNdfHAPZz",
+    "provider": "Videa · I. rész",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "A keresztapa (1972), 177 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-keresztapa.1972.-175-perc-amerikai-gengszterfilm-Mi343HjlNdfHAPZz",
+    "availability": "free"
+  },
+  {
+    "id": 60,
+    "url": "https://videa.hu/videok/film-animacio/a-keresztapa-2.-1974-fhd-film-animacio-N_kXzXM9FPwIlOs1L",
+    "provider": "Videa · II. rész",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "A keresztapa II. (1974), 202 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-keresztapa-2.-1974-fhd-film-animacio-N_kXzXM9FPwIlOs1L",
+    "availability": "free"
+  },
+  {
+    "id": 60,
+    "url": "https://videa.hu/videok/film-animacio/a-keresztapa-3-1990-170-perc-amerikai-gengszterfilm-j1wQLqSUdKtA4ly6",
+    "provider": "Videa · III. rész",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "A keresztapa III. (1990), 163 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-keresztapa-3-1990-170-perc-amerikai-gengszterfilm-j1wQLqSUdKtA4ly6",
+    "availability": "free"
+  },
+  {
+    "id": 61,
+    "url": "https://videa.hu/videok/film-animacio/a-kiraly-beszede-2010-B!10Au60I1OLtIiPf",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 118 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-kiraly-beszede-2010-B!10Au60I1OLtIiPf",
+    "availability": "free"
+  },
+  {
+    "id": 62,
+    "url": "https://videa.hu/videok/film-animacio/schindler-listaja-1993.mp4-16-even-aluliak-szamara-nem-aj-lctgjZv2OLWsFAQv",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 195 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/schindler-listaja-1993.mp4-16-even-aluliak-szamara-nem-aj-lctgjZv2OLWsFAQv",
+    "availability": "free"
+  },
+  {
+    "id": 63,
+    "url": "https://videa.hu/videok/film-animacio/1a-zongorista-2002-dvdrip-tvrip-vhsrip-dxPSgHFaIBHMC8W1",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 143 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/1a-zongorista-2002-dvdrip-tvrip-vhsrip-dxPSgHFaIBHMC8W1",
+    "availability": "free"
+  },
+  {
+    "id": 64,
+    "url": "https://videa.hu/videok/film-animacio/gandhi-1981.mp4-12-even-aluliak-szamara-a-megt-tOUAxZqEu5eE2TBM",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 191 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/gandhi-1981.mp4-12-even-aluliak-szamara-a-megt-tOUAxZqEu5eE2TBM",
+    "availability": "free"
+  },
+  {
+    "id": 65,
+    "url": "https://videa.hu/videok/film-animacio/amadeus-1984-eoshSVdiIaYvWEGS",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 160 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/amadeus-1984-eoshSVdiIaYvWEGS",
+    "availability": "free"
+  },
+  {
+    "id": 66,
+    "url": "https://videa.hu/videok/film-animacio/a-mindenseg-elmelete-film-animacio-5wLUgtISrw1T0U1I",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 123 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-mindenseg-elmelete-film-animacio-5wLUgtISrw1T0U1I",
+    "availability": "free"
+  },
+  {
+    "id": 67,
+    "url": "https://videa.hu/videok/film-animacio/eletrevalok-film-animacio-VlCAKstVmhgc9xzf",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 112 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/eletrevalok-film-animacio-VlCAKstVmhgc9xzf",
+    "availability": "free"
+  },
+  {
+    "id": 68,
+    "url": "https://videa.hu/videok/film-animacio/forrest-gump-1994-hd-www.hdmozi.hu-film-animacio-ObfrV2VOP8Qeh.rcT",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 142 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/forrest-gump-1994-hd-www.hdmozi.hu-film-animacio-ObfrV2VOP8Qeh.rcT",
+    "availability": "free"
+  },
+  {
+    "id": 69,
+    "url": "https://videa.hu/videok/film-animacio/a-szazeves-ember-aki-kimaszott-film-animacio-r0I1RRH89iJDPdw7",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 114 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-szazeves-ember-aki-kimaszott-film-animacio-r0I1RRH89iJDPdw7",
+    "availability": "free"
+  },
+  {
+    "id": 70,
+    "url": "https://videa.hu/videok/film-animacio/a-boldogsag-nyomaban-2006-117-perc-12-even-aluliak-szamara-megt-8qhalM4Y4PQvhbp2",
+    "provider": "Videa",
+    "language": "Magyar hang",
+    "checkedAt": "2026-11-01",
+    "note": "Teljes film, 117 perc.",
+    "evidenceUrl": "https://videa.hu/videok/film-animacio/a-boldogsag-nyomaban-2006-117-perc-12-even-aluliak-szamara-megt-8qhalM4Y4PQvhbp2",
+    "availability": "free"
+  }
+]

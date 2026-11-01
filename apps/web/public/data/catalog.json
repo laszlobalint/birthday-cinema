@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "title": "Körhinta",
+    "year": 1956,
+    "category": "Magyar klasszikus",
+    "desc": "Szerelem és választás egy falusi közösségben.",
+    "poster": "/posters/01.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Merry-Go-Round_(1956_film)"
+  },
+  {
+    "id": 2,
+    "title": "Szerelem",
+    "year": 1971,
+    "category": "Magyar klasszikus",
+    "desc": "Két nő sorsa, emlékezés és hűség egy nehéz korszakban.",
+    "poster": "/posters/02.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/szerelem.html"
+  },
+  {
+    "id": 3,
+    "title": "Az ötödik pecsét",
+    "year": 1976,
+    "category": "Magyar klasszikus",
+    "desc": "Erkölcsi kérdések néhány barát háborús estéjén.",
+    "poster": "/posters/03.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/az-otodik-pecset-2.html"
+  },
+  {
+    "id": 4,
+    "title": "Édes Anna",
+    "year": 1958,
+    "category": "Magyar klasszikus",
+    "desc": "Kosztolányi regényének megrendítő filmváltozata.",
+    "poster": "/posters/04.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/edes-anna.html"
+  },
+  {
+    "id": 5,
+    "title": "A tanú",
+    "year": 1969,
+    "category": "Magyar klasszikus",
+    "desc": "Keserédes politikai szatíra Pelikán Józseffel.",
+    "poster": "/posters/05.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/a-tanu.html"
+  },
+  {
+    "id": 6,
+    "title": "Macskajáték",
+    "year": 1974,
+    "category": "Magyar klasszikus",
+    "desc": "Testvéri kapcsolat, öregedés és újrakezdés.",
+    "poster": "/posters/06.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/macskajatek.html"
+  },
+  {
+    "id": 7,
+    "title": "Régi idők focija",
+    "year": 1973,
+    "category": "Magyar klasszikus",
+    "desc": "Szeretetre méltó történet a fociról és az álmokról.",
+    "poster": "/posters/07.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/regi-idok-focija.html"
+  },
+  {
+    "id": 8,
+    "title": "Mephisto",
+    "year": 1981,
+    "category": "Magyar klasszikus",
+    "desc": "Egy színész pályája és a hatalom csábítása.",
+    "poster": "/posters/08.png",
+    "imageSource": "https://en.wikipedia.org/wiki/Mephisto_(1981_film)"
+  },
+  {
+    "id": 9,
+    "title": "Húsz óra",
+    "year": 1965,
+    "category": "Magyar klasszikus",
+    "desc": "Egy falu múltjából kirajzolódó történelmi dráma.",
+    "poster": "/posters/09.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/husz-ora.html"
+  },
+  {
+    "id": 10,
+    "title": "Szegénylegények",
+    "year": 1966,
+    "category": "Magyar klasszikus",
+    "desc": "Hatalom és kiszolgáltatottság Jancsó filmjében.",
+    "poster": "/posters/10.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/szegenylegenyek.html"
+  },
+  {
+    "id": 11,
+    "title": "Apa",
+    "year": 1966,
+    "category": "Magyar klasszikus",
+    "desc": "Egy fiatalember keresi apja emlékét és önmagát.",
+    "poster": "/posters/11.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/apa.html"
+  },
+  {
+    "id": 12,
+    "title": "Álmodozások kora",
+    "year": 1964,
+    "category": "Magyar klasszikus",
+    "desc": "Fiatal értelmiségiek útkeresése Budapesten.",
+    "poster": "/posters/12.jpg",
+    "imageSource": "https://nfi.hu/filmek/almodozasok-kora.html"
+  },
+  {
+    "id": 13,
+    "title": "Megáll az idő",
+    "year": 1982,
+    "category": "Magyar klasszikus",
+    "desc": "Kamaszkor és szabadságvágy a hatvanas években.",
+    "poster": "/posters/13.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/megall-az-ido.html"
+  },
+  {
+    "id": 14,
+    "title": "Eldorádó",
+    "year": 1989,
+    "category": "Magyar klasszikus",
+    "desc": "Egy piaci kereskedő története a háború után.",
+    "poster": "/posters/14.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/eldorado.html"
+  },
+  {
+    "id": 15,
+    "title": "Napló gyermekeimnek",
+    "year": 1984,
+    "category": "Magyar klasszikus",
+    "desc": "Személyes és történelmi emlékek Mészáros Mártától.",
+    "poster": "/posters/15.jpg",
+    "imageSource": "https://www.justwatch.com/us/movie/diary-for-my-children"
+  },
+  {
+    "id": 16,
+    "title": "Napló szerelmeimnek",
+    "year": 1987,
+    "category": "Magyar klasszikus",
+    "desc": "Egy fiatal nő útkeresése és a történelem.",
+    "poster": "/posters/16.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/naplo-szerelmeimnek.html"
+  },
+  {
+    "id": 17,
+    "title": "Bizalom",
+    "year": 1980,
+    "category": "Magyar klasszikus",
+    "desc": "Kényszerű együttélésből kibontakozó kapcsolat.",
+    "poster": "/posters/17.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/bizalom.html"
+  },
+  {
+    "id": 18,
+    "title": "Szindbád",
+    "year": 1971,
+    "category": "Magyar klasszikus",
+    "desc": "Emlékek, ízek és szerelmek lírai mozaikja.",
+    "poster": "/posters/18.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/szindbad"
+  },
+  {
+    "id": 19,
+    "title": "Szerelmesfilm",
+    "year": 1970,
+    "category": "Magyar klasszikus",
+    "desc": "Gyermekkori szerelem és elszakadás.",
+    "poster": "/posters/19.jpg",
+    "imageSource": "https://www.justwatch.com/us/movie/lovefilm"
+  },
+  {
+    "id": 20,
+    "title": "Fotográfia",
+    "year": 1973,
+    "category": "Magyar klasszikus",
+    "desc": "Képek és emlékek nyomában.",
+    "poster": "/posters/20.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/fotografia.html"
+  },
+  {
+    "id": 21,
+    "title": "Indul a bakterház",
+    "year": 1979,
+    "category": "Magyar klasszikus",
+    "desc": "Bendegúz mulatságos kalandjai a bakterháznál.",
+    "poster": "/posters/21.jpg",
+    "imageSource": "https://hu.wikipedia.org/wiki/Indul_a_bakterh%C3%A1z_(film)"
+  },
+  {
+    "id": 22,
+    "title": "Ábel a rengetegben",
+    "year": 1993,
+    "category": "Magyar klasszikus",
+    "desc": "Egy fiú próbái az erdélyi Hargitán.",
+    "poster": "/posters/22.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/abel-a-rengetegben.html"
+  },
+  {
+    "id": 23,
+    "title": "A Pál utcai fiúk",
+    "year": 1969,
+    "category": "Magyar klasszikus",
+    "desc": "Barátság és hűség Molnár Ferenc regénye nyomán.",
+    "poster": "/posters/23.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/a-pal-utcai-fiuk"
+  },
+  {
+    "id": 24,
+    "title": "A koppányi aga testamentuma",
+    "year": 1967,
+    "category": "Magyar klasszikus",
+    "desc": "Kalandos történet a török hódoltság idejéből.",
+    "poster": "/posters/24.jpg",
+    "imageSource": "https://mediaklikk.hu/filmek/video/2026/04/20/film/a-koppanyi-aga-testamentuma-2/"
+  },
+  {
+    "id": 25,
+    "title": "Abigél",
+    "year": 1978,
+    "category": "Magyar klasszikus",
+    "desc": "Egy diáklány titkokkal teli háborús története.",
+    "poster": "/posters/25.jpg",
+    "imageSource": "https://hu.wikipedia.org/wiki/Abig%C3%A9l_(film)"
+  },
+  {
+    "id": 26,
+    "title": "Sátántangó",
+    "year": 1994,
+    "category": "Kortárs magyar film",
+    "desc": "Tarr Béla legendás, több mint hétórás remekműve Krasznahorkai László regényéből.",
+    "poster": "/posters/26.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/satantango.html"
+  },
+  {
+    "id": 27,
+    "title": "Csinibaba",
+    "year": 1997,
+    "category": "Kortárs magyar film",
+    "desc": "Derűs, zenés nosztalgia a hatvanas évek elejéről.",
+    "poster": "/posters/27.jpg",
+    "imageSource": "https://nfi.hu/filmek/csinibaba.html"
+  },
+  {
+    "id": 28,
+    "title": "Kontroll",
+    "year": 2003,
+    "category": "Kortárs magyar film",
+    "desc": "Jegyellenőrök különös világa a budapesti metró mélyén.",
+    "poster": "/posters/28.jpg",
+    "imageSource": "https://nfi.hu/filmek/kontroll.html"
+  },
+  {
+    "id": 29,
+    "title": "Saul fia",
+    "year": 2015,
+    "category": "Kortárs magyar film",
+    "desc": "Megrendítő, Oscar-díjas történet az emberi méltóságról Auschwitzban.",
+    "poster": "/posters/29.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/saul-fia.html"
+  },
+  {
+    "id": 30,
+    "title": "Testről és lélekről",
+    "year": 2017,
+    "category": "Kortárs magyar film",
+    "desc": "Két magányos ember, akik minden éjjel ugyanazt álmodják.",
+    "poster": "/posters/30.jpg",
+    "imageSource": "https://nfi.hu/alapfilmek-1/alapfilmek-filmek/jatekfilm/testrol-es-lelekrol.html"
+  },
+  {
+    "id": 31,
+    "title": "Felkészülés meghatározatlan ideig tartó együttlétre",
+    "year": 2020,
+    "category": "Kortárs magyar film",
+    "desc": "Egy idegsebésznő hazatér egy szerelem reményében, de a férfi nem ismeri meg.",
+    "poster": "/posters/31.jpg",
+    "imageSource": "https://nfi.hu/filmek/felkeszules-meghatarozatlan-ideig-tarto-egyuttletre.html"
+  },
+  {
+    "id": 32,
+    "title": "Biciklitolvajok",
+    "year": 1948,
+    "category": "Francia és olasz",
+    "desc": "Apa és fia a háború utáni Rómában.",
+    "poster": "/posters/32.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Bicycle_Thieves"
+  },
+  {
+    "id": 33,
+    "title": "Édes élet",
+    "year": 1960,
+    "category": "Francia és olasz",
+    "desc": "Fellini felejthetetlen római tablója.",
+    "poster": "/posters/33.jpg",
+    "imageSource": "https://www.justwatch.com/us/movie/la-dolce-vita"
+  },
+  {
+    "id": 34,
+    "title": "Nyolc és fél",
+    "year": 1963,
+    "category": "Francia és olasz",
+    "desc": "Egy rendező alkotói és személyes válsága.",
+    "poster": "/posters/34.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/8%C2%BD"
+  },
+  {
+    "id": 35,
+    "title": "Országúton",
+    "year": 1954,
+    "category": "Francia és olasz",
+    "desc": "Megható történet egy vándormutatványos párról.",
+    "poster": "/posters/35.webp",
+    "imageSource": "https://en.wikipedia.org/wiki/La_Strada"
+  },
+  {
+    "id": 36,
+    "title": "Tegnap, ma, holnap",
+    "year": 1963,
+    "category": "Francia és olasz",
+    "desc": "Három szellemes olasz történet.",
+    "poster": "/posters/36.jpg",
+    "imageSource": "https://www.justwatch.com/us/movie/yesterday-today-and-tomorrow"
+  },
+  {
+    "id": 37,
+    "title": "Házasság olasz módra",
+    "year": 1964,
+    "category": "Francia és olasz",
+    "desc": "Szerelem és méltóság évtizedeken át.",
+    "poster": "/posters/37.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Marriage_Italian_Style"
+  },
+  {
+    "id": 38,
+    "title": "Cinema Paradiso",
+    "year": 1988,
+    "category": "Francia és olasz",
+    "desc": "Egy fiú, egy mozi és az emlékezés öröme.",
+    "poster": "/posters/38.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/cinema-paradiso"
+  },
+  {
+    "id": 39,
+    "title": "A postás",
+    "year": 1994,
+    "category": "Francia és olasz",
+    "desc": "Barátság és költészet egy mediterrán szigeten.",
+    "poster": "/posters/39.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Il_Postino%3A_The_Postman"
+  },
+  {
+    "id": 40,
+    "title": "Amélie csodálatos élete",
+    "year": 2001,
+    "category": "Francia és olasz",
+    "desc": "Apró jócselekedetek Párizsban.",
+    "poster": "/posters/40.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Am%C3%A9lie"
+  },
+  {
+    "id": 41,
+    "title": "Négyszáz csapás",
+    "year": 1959,
+    "category": "Francia és olasz",
+    "desc": "Egy kamasz lázadása és magánya.",
+    "poster": "/posters/41.jpg",
+    "imageSource": "https://www.justwatch.com/us/movie/the-400-blows"
+  },
+  {
+    "id": 42,
+    "title": "Jules és Jim",
+    "year": 1962,
+    "category": "Francia és olasz",
+    "desc": "Barátság és szerelem a francia új hullámban.",
+    "poster": "/posters/42.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/jules-es-jim"
+  },
+  {
+    "id": 43,
+    "title": "A bársonyos bőr",
+    "year": 1964,
+    "category": "Francia és olasz",
+    "desc": "Titkos kapcsolat és következmények Truffaut filmjében.",
+    "poster": "/posters/43.jpg",
+    "imageSource": "https://www.justwatch.com/us/movie/the-soft-skin"
+  },
+  {
+    "id": 44,
+    "title": "A nagy zabálás",
+    "year": 1973,
+    "category": "Francia és olasz",
+    "desc": "Provokatív, fekete humorú társadalmi szatíra.",
+    "poster": "/posters/44.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/a-nagy-zabalas"
+  },
+  {
+    "id": 45,
+    "title": "A nyolcadik nap",
+    "year": 1996,
+    "category": "Francia és olasz",
+    "desc": "Egy kiégett üzletember és egy Down-szindrómás fiatalember barátsága.",
+    "poster": "/posters/45.jpg",
+    "imageSource": "https://www.justwatch.com/us/movie/the-eighth-day"
+  },
+  {
+    "id": 46,
+    "title": "A mások élete",
+    "year": 2006,
+    "category": "Európai művészfilm",
+    "desc": "Megfigyelés és lelkiismeret az NDK-ban.",
+    "poster": "/posters/46.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/a-masok-elete"
+  },
+  {
+    "id": 47,
+    "title": "Good Bye, Lenin!",
+    "year": 2003,
+    "category": "Európai művészfilm",
+    "desc": "Egy család története a német újraegyesítés idején.",
+    "poster": "/posters/47.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/good-bye-lenin"
+  },
+  {
+    "id": 48,
+    "title": "A fehér szalag",
+    "year": 2009,
+    "category": "Európai művészfilm",
+    "desc": "Titokzatos események egy német faluban.",
+    "poster": "/posters/48.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/a-feher-szalag"
+  },
+  {
+    "id": 49,
+    "title": "Ida",
+    "year": 2013,
+    "category": "Európai művészfilm",
+    "desc": "Egy fiatal nő családi múltja nyomába ered.",
+    "poster": "/posters/49.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/ida"
+  },
+  {
+    "id": 50,
+    "title": "Hidegháború",
+    "year": 2018,
+    "category": "Európai művészfilm",
+    "desc": "Szerelem és elszakadás a vasfüggöny két oldalán.",
+    "poster": "/posters/50.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/hideghaboru"
+  },
+  {
+    "id": 51,
+    "title": "Veronika kettős élete",
+    "year": 1991,
+    "category": "Európai művészfilm",
+    "desc": "Két nő különös, költői kapcsolata.",
+    "poster": "/posters/51.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/veronika-kettos-elete"
+  },
+  {
+    "id": 52,
+    "title": "A zongoratanárnő",
+    "year": 2001,
+    "category": "Európai művészfilm",
+    "desc": "Feszültségekkel teli lélektani dráma.",
+    "poster": "/posters/52.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/a-zongoratanarno"
+  },
+  {
+    "id": 53,
+    "title": "A négyzet",
+    "year": 2017,
+    "category": "Európai művészfilm",
+    "desc": "Kortárs művészet és társadalmi szerepek szatírája.",
+    "poster": "/posters/53.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/a-negyzet"
+  },
+  {
+    "id": 54,
+    "title": "Még egy kört mindenkinek",
+    "year": 2020,
+    "category": "Európai művészfilm",
+    "desc": "Négy középkorú tanár merész kísérlete.",
+    "poster": "/posters/54.jpg",
+    "imageSource": "https://www.justwatch.com/us/movie/another-round"
+  },
+  {
+    "id": 55,
+    "title": "Toni Erdmann",
+    "year": 2016,
+    "category": "Európai művészfilm",
+    "desc": "Apa és lánya különös közeledése.",
+    "poster": "/posters/55.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/toni-erdmann"
+  },
+  {
+    "id": 56,
+    "title": "12 dühös ember",
+    "year": 1957,
+    "category": "Világklasszikus",
+    "desc": "Egy esküdtszék vitája az igazságról.",
+    "poster": "/posters/56.jpg",
+    "imageSource": "https://www.justwatch.com/us/movie/12-angry-men"
+  },
+  {
+    "id": 57,
+    "title": "Hátsó ablak",
+    "year": 1954,
+    "category": "Világklasszikus",
+    "desc": "Hitchcock izgalmas története a kíváncsiságról.",
+    "poster": "/posters/57.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/hatso-ablak"
+  },
+  {
+    "id": 58,
+    "title": "Szédülés",
+    "year": 1958,
+    "category": "Világklasszikus",
+    "desc": "Megszállottság és rejtély San Franciscóban.",
+    "poster": "/posters/58.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/szedules"
+  },
+  {
+    "id": 59,
+    "title": "Van, aki forrón szereti",
+    "year": 1959,
+    "category": "Világklasszikus",
+    "desc": "Fergeteges klasszikus vígjáték.",
+    "poster": "/posters/59.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/van-aki-forron-szereti"
+  },
+  {
+    "id": 60,
+    "title": "A keresztapa",
+    "year": 1972,
+    "category": "Világklasszikus",
+    "desc": "Család, hatalom és lojalitás.",
+    "poster": "/posters/60.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/The_Godfather"
+  },
+  {
+    "id": 61,
+    "title": "A király beszéde",
+    "year": 2010,
+    "category": "Történelmi és életrajzi",
+    "desc": "Egy uralkodó küzdelme a dadogással.",
+    "poster": "/posters/61.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/a-kiraly-beszede"
+  },
+  {
+    "id": 62,
+    "title": "Schindler listája",
+    "year": 1993,
+    "category": "Történelmi és életrajzi",
+    "desc": "Embermentés a holokauszt idején.",
+    "poster": "/posters/62.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Schindler's_List"
+  },
+  {
+    "id": 63,
+    "title": "A zongorista",
+    "year": 2002,
+    "category": "Történelmi és életrajzi",
+    "desc": "Egy zenész túlélése a háborúban.",
+    "poster": "/posters/63.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/a-zongorista"
+  },
+  {
+    "id": 64,
+    "title": "Gandhi",
+    "year": 1982,
+    "category": "Történelmi és életrajzi",
+    "desc": "Az erőszakmentes ellenállás története.",
+    "poster": "/posters/64.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/gandhi"
+  },
+  {
+    "id": 65,
+    "title": "Amadeus",
+    "year": 1984,
+    "category": "Történelmi és életrajzi",
+    "desc": "Mozart és Salieri legendás vetélkedése.",
+    "poster": "/posters/65.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/amadeus"
+  },
+  {
+    "id": 66,
+    "title": "A mindenség elmélete",
+    "year": 2014,
+    "category": "Történelmi és életrajzi",
+    "desc": "Stephen Hawking életének személyes oldala.",
+    "poster": "/posters/66.jpg",
+    "imageSource": "https://www.justwatch.com/hu/film/a-mindenseg-elmelete"
+  },
+  {
+    "id": 67,
+    "title": "Életrevalók",
+    "year": 2011,
+    "category": "Szívmelengető",
+    "desc": "Egy gazdag, kerekesszékes férfi és fiatal segítője barátsága.",
+    "poster": "/posters/67.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/The_Intouchables"
+  },
+  {
+    "id": 68,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "category": "Szívmelengető",
+    "desc": "Egy különleges ember rendkívüli élete.",
+    "poster": "/posters/68.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Forrest_Gump"
+  },
+  {
+    "id": 69,
+    "title": "A százéves ember, aki kimászott az ablakon és eltűnt",
+    "year": 2013,
+    "category": "Szívmelengető",
+    "desc": "Szokatlan kalandok és fanyar humor.",
+    "poster": "/posters/69.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/The_Hundred-Year-Old_Man_Who_Climbed_Out_of_the_Window_and_Disappeared_(film)"
+  },
+  {
+    "id": 70,
+    "title": "A boldogság nyomában",
+    "year": 2006,
+    "category": "Szívmelengető",
+    "desc": "Apa és fia küzdelme egy jobb életért.",
+    "poster": "/posters/70.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/The_Pursuit_of_Happyness"
+  }
+]
