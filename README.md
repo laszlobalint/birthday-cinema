@@ -1,6 +1,6 @@
 # 70 év, 70 történet
 
-A Hungarian-language birthday cinema for Vikor Györgyi, born 4 November 1956. Built for her 70th birthday on 4 November 2026. The site shows exactly 70 films.
+A Hungarian-language birthday cinema for Vikor Györgyi, born 3 November 1956. Built for her 70th birthday on 3 November 2026. The site shows exactly 70 films.
 
 ## Run and check
 
